@@ -1,0 +1,22 @@
+{
+    "name": "noctis-fo",
+    "displayName": "noctis-fo",
+    "description": "Noctis theme without font-style bold",
+    "version": "0.0.1",
+    "publisher": "FedericoOrlandau",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Noctis Fo",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Noctis Fo-color-theme.json"
+            }
+        ]
+    }
+}
