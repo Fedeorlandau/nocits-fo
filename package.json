@@ -4,6 +4,10 @@
     "description": "Noctis theme without font-style bold",
     "version": "0.0.1",
     "publisher": "FedericoOrlandau",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Fedeorlandau/nocits-fo.git"
+    },  
     "engines": {
         "vscode": "^1.58.0"
     },
